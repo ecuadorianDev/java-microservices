@@ -6,7 +6,7 @@ public class HelloGit {
 		System.out.println("Hello Git from Ubuntu");
 		System.out.println("Hello Git from Win7Ultimate");
 		System.out.println("Ubuntu: I'm doing rigth things...");
-		System.out.println("Congrats");
+		System.out.println("Congrats...");
 	}
 
 }
